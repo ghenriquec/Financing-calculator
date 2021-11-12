@@ -47,7 +47,12 @@ const financingCar = () => {
 }
 
 const clearText = () => {
-
+    document.getElementById('name').value
+    document.getElementById('carPrice').value
+    document.getElementById('salary').value
+    document.getElementById('inputValue').value
+    document.getElementById('installmentsQuantity').value
+    document.getElementById('result').value;
 }
 
 const focusFunx = () => {
