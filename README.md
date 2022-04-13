@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-    <a href="https://ghenriquec.github.io/individually-project/"> Financiamento </a>
+    <a href="https://ghenriquec.github.io/Financing-calculator/"> Financing Calculator </a>
 </h1>
 
 <h3 align="center">
@@ -7,30 +7,30 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ghenriquec/individually-project?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ghenriquec/Financing-calculator?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ghenriquec/individually-project">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ghenriquec/Financing-calculator">
 
 # Individually Project
 
 Webapp developed to solve the business problem suggested by Professor Alexandre💚
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ghenriquec/individually-project?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ghenriquec/Financing-calculator?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ghenriquec/individually-project">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ghenriquec/Financing-calculator">
 
   <a href="https://www.twitter.com/ghhc_/">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fghenriquec%2Fchallenge-TPA">
   </a>
   
-  <a href="https://github.com/ghenriquec/individually-project/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ghenriquec/individually-project">
+  <a href="https://github.com/ghenriquec/Financing-calculator/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ghenriquec/Financing-calculator">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/ghenriquec/individually-project/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/ghenriquec/individually-project?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/ghenriquec/Financing-calculator?style=social">
   </a>
 </p>
 
@@ -49,7 +49,7 @@ Webapp developed to solve the business problem suggested by Professor Alexandre�
 
 ## About
 
-💚 In this project, based on the name, age and height of the user, the body mass index is calculated and the weight range is assessed.
+💚 Project designed to help with car financing calculations, based on the down payment, user's salary, total vehicle value, installments and interest charged on the installments.
 
 ---
 
@@ -63,9 +63,9 @@ In addition, it is good to have an editor to work with the code like [VSCode] (h
 
 ```bash
 # Clone this repository
-$ git clone git@github.com: ghenriquec / challenge-TPA
+$ git clone git@github.com: ghenriquec / Financing-calculator
 # Access the project folder in your terminal
-$ cd imc-calculator
+$ cd Financing-calculator
 # Install extension Live Server in Visual Studio Code
 $ Open VSCode and type ctrl+P, type ext install ritwickdey.liveserver.
 # Run the application in Live Server
